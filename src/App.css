@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+
+.navbar-brand h2{
+    color: #3364FF;
+    padding-left: 2rem;
+    font-family: cursive;
+    font-weight: bold;
+}
+.nav-link h5{
+    text-align: center;
+    align-items: center;
+    color: #ffffff;
+    font-family: cursive;
+    font-size: medium;
+}
+
+.nav-link h5:hover{
+    color: #3364FF;
+}
+
+.navbar{
+    box-shadow: 0 0 0.3rem 0.3rem;
+}
